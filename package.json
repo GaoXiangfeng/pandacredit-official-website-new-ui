@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "animate.css": "^3.7.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "element-ui": "^2.13.0",
     "es6-promise": "^4.2.6",
     "iview": "^3.4.0",
